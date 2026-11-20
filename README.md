@@ -2,6 +2,6 @@
 Repositorio Inicial
 
 ## Quien Soy
-- Nombre: <Jimmy>
+- Nombre: <Jimmy Belupu>
 - Rol: <DBA>
-- Que espero de Curso: <Aprender el uso de GibHub>
+- Que espero de Curso: <Aprender el uso de GibHub >
